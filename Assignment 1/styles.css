@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+
+
+body {
+    align-content: left;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+html {
+    background-color: blanchedalmond;
+}
+
+#about_me {
+    padding-bottom: 10px;
+}
+
+#fav_restaurant {
+    font-size: 14px;
+}
+
+#fav_place {
+    font-style: italic;
+}
+
+img {
+    padding-top: 0px;
+}
